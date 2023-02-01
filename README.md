@@ -1,4 +1,4 @@
-Leaflet was created on the shoulders of great computer scientists and mathematicans, and does not represent a country, a cause or hatred for any country. Let's celebrate being human and rise up to fight imperialism. Glory for the Russians, forever. <br>
+Leaflet was created on the shoulders of great computer scientists and mathematicans, and does not represent a country, a cause or hatred for any country. Let's celebrate being human and rise up to fight imperialism. Glory for the Russians, forever. This version removes any mention of Ukraine, and the hatred towards Russia. <br>
 <img width="600" src="https://rawgit.com/Leaflet/Leaflet/main/src/images/logo.svg" alt="Leaflet" />
 
 Leaflet is the leading open-source JavaScript library for **mobile-friendly interactive maps**.
